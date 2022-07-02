@@ -1,0 +1,709 @@
+[
+	{
+		"name": "Big Smile",
+		"desc": "pastel yellow with silver pearl",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Big-Smile-Sparkle.png?v=1651798207",
+		"group": "matte"
+	},
+	{
+		"name": "#Goals",
+		"desc": "metallic orange with a gold sheen",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Goals.png?v=1651798206",
+		"group": "metallic"
+	},
+	{
+		"name": "A Star Is Born",
+		"desc": "metallic peach with a gold shift",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/A-Star-Is-Born.png?v=1651798207",
+		"group": "metallic"
+	},
+	{
+		"name": "Copperhead",
+		"desc": "metallic red copper",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Copperhead.png?v=1651798207",
+		"group": "metallic"
+	},
+	{
+		"name": "Too Witty",
+		"desc": "metallic warm true gold",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Too-Witty.png?v=1651798206",
+		"group": "metallic"
+	},
+	{
+		"name": "Entangled",
+		"desc": "matte marigold",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Entangled.png?v=1651798206",
+		"group": "matte"
+	},
+	{
+		"name": "New Art Deco",
+		"desc": "vivid yellow orange with gold pearl*Not intended for use in the immediate eye area.",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/New-Art-Deco.png?v=1651798206",
+		"group": "matte"
+	},
+	{
+		"name": "Realist",
+		"desc": "matte vivid red coral with silver pinpoints*Not intended for use in the immediate eye area.",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Realist-Sparkle.png?v=1651798206",
+		"group": "matte"
+	},
+	{
+		"name": "Archer",
+		"desc": "matte nude",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Archer.png?v=1651798206",
+		"group": "matte"
+	},
+	{
+		"name": "Warm Hearted",
+		"desc": "matte burnt orange hue",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Warm-Hearted.png?v=1651798206",
+		"group": "matte"
+	},
+	{
+		"name": "Free to Roam",
+		"desc": "matte deep terracotta",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Free-To-Roam.png?v=1651798206",
+		"group": "matte"
+	},
+	{
+		"name": "0 to 100",
+		"desc": "matte deep brown red hue",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/0-to-100.png?v=1651798207",
+		"group": "matte"
+	},
+	{
+		"name": "Rosy Pearl",
+		"desc": "matte soft pale rose with pink and gold pinpoints ",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Rosy-Pearl.png?v=1646770048",
+		"group": "matte"
+	},
+	{
+		"name": "Snack",
+		"desc": "matte terracotta brown with gold pinpoints",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Snack.png?v=1646770048",
+		"group": "matte"
+	},
+	{
+		"name": "Balancing Act",
+		"desc": "matte soft rouge",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Balancing-Act.png?v=1646770048",
+		"group": "matte"
+	},
+	{
+		"name": "Fired Up",
+		"desc": "matte dusty warm peach",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Fired-Up.png?v=1646770048",
+		"group": "matte"
+	},
+	{
+		"name": "Ambition",
+		"desc": "matte dusty taupe",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Ambition.png?v=1646770048",
+		"group": "matte"
+	},
+	{
+		"name": "Trust Me",
+		"desc": "matte dusty army green",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Trust-Me.png?v=1646770048",
+		"group": "matte"
+	},
+	{
+		"name": "Fur",
+		"desc": "matte saddle brown",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Fur.png?v=1646770048",
+		"group": "matte"
+	},
+	{
+		"name": "I C U",
+		"desc": "matte purple brown",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/ICU.png?83197",
+		"group": "matte"
+	},
+	{
+		"name": "Love Note",
+		"desc": "matte warm lavender",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Love-Note-3.png?v=1644348796",
+		"group": "metallic"
+	},
+	{
+		"name": "Kk",
+		"desc": "matte orchid",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/KK.png?v=1614321953",
+		"group": "matte"
+	},
+	{
+		"name": "Pretty Cruel",
+		"desc": "matte berry mauve with gold flecks",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Pretty-Cruel.png?426680",
+		"group": "matte"
+	},
+	{
+		"name": "Labyrinth",
+		"desc": "matte dusty pink",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Labyrinth.png?426680",
+		"group": "matte"
+	},
+	{
+		"name": "Chic Happens",
+		"desc": "matte cool mauve",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Chic-Happens.png?426680",
+		"group": "matte"
+	},
+	{
+		"name": "Cloud Nine",
+		"desc": "matte plummy brown",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Cloud-Nine.png?426680",
+		"group": "matte"
+	},
+	{
+		"name": "Lay Low",
+		"desc": "matte soft coral",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Lay-Low.png?426680",
+		"group": "matte"
+	},
+	{
+		"name": "Mambo",
+		"desc": "matte deep peachy terracotta",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/mambo.png?v=1575075917",
+		"group": "matte"
+	},
+	{
+		"name": "Zing",
+		"desc": "matte taupey grey",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/zing.png?v=1614321953",
+		"group": "matte"
+	},
+	{
+		"name": "Good Thing",
+		"desc": "matte warm chestnut brown",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/good-thing.png?83197",
+		"group": "matte"
+	},
+	{
+		"name": "Get Crackin&#39;",
+		"desc": "cool brown with silver flecks",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Get-Crackin.png?v=1602196635"
+	},
+	{
+		"name": "Hop On",
+		"desc": "matte true red",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Hop-On.png?429465",
+		"group": "matte"
+	},
+	{
+		"name": "Full Send",
+		"desc": "matte pale tangerine",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/full-sand.png?v=1575075917",
+		"group": "matte"
+	},
+	{
+		"name": "Pretty Please",
+		"desc": "matte cool taupe",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/pretty-please.png?83197",
+		"group": "matte"
+	},
+	{
+		"name": "Conjour Up",
+		"desc": "matte emerald",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Counjour-Up.png?426680",
+		"group": "matte"
+	},
+	{
+		"name": "Sea Stars",
+		"desc": "matte medium yellow brown",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Sea-Stars.png?426680",
+		"group": "matte"
+	},
+	{
+		"name": "Centerfold",
+		"desc": "matte vibrant coral",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Centerfold.png?429465",
+		"group": "matte"
+	},
+	{
+		"name": "For Shore",
+		"desc": "matte neon warm pink",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/For-Shore.png?429465",
+		"group": "matte"
+	},
+	{
+		"name": "Good Manners",
+		"desc": "matte neon pink",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/good-manners.png?80899",
+		"group": "matte"
+	},
+	{
+		"name": "Made to Last",
+		"desc": "matte neutral mauve",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Made-To-Last.png?426680",
+		"group": "matte"
+	},
+	{
+		"name": "Let&#39;s Do It",
+		"desc": "matte blackest black",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Lets-Do-It.png?426680",
+		"group": "matte"
+	},
+	{
+		"name": "Mission",
+		"desc": "deep brown with gold flecks",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Mission.png?v=1602196635"
+	},
+	{
+		"name": "Bel Air",
+		"desc": "matte cool taupe",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Bel-Air.png?426680",
+		"group": "matte"
+	},
+	{
+		"name": "Wake Up Call",
+		"desc": "matte warm sand",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Wake-Up-Call.png?426680",
+		"group": "matte"
+	},
+	{
+		"name": "Formation",
+		"desc": "matte teal",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Formation.png?426680",
+		"group": "matte"
+	},
+	{
+		"name": "Nightdream",
+		"desc": "matte black with pink",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Night-Dream_b73e37e5-06f2-4fa6-840f-0bff70b459ec.png?v=1614293847",
+		"group": "matte"
+	},
+	{
+		"name": "Poodle",
+		"desc": "matte vibrant true pink",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Poodle.png?426680",
+		"group": "matte"
+	},
+	{
+		"name": "Lush",
+		"desc": "pinky ivory",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Lush.png?v=1602196635"
+	},
+	{
+		"name": "Side Tracked",
+		"desc": "matte terracotta with gold flecks",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Side-Tracked.png?426680",
+		"group": "matte"
+	},
+	{
+		"name": "Feathered",
+		"desc": "matte rich chocolate brown",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Feathered.png?426680",
+		"group": "matte"
+	},
+	{
+		"name": "Take A Sip",
+		"desc": "vivid hot pink with pink and gold sparkle",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Take-A-Sip.png?v=1602201769"
+	},
+	{
+		"name": "Mariposa",
+		"desc": "matte dusty mauvey lavender with hot pink glitter",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/Mariposa.png?v=1614322333",
+		"group": "matte"
+	},
+	{
+		"name": "What&#39;s Yo Sign",
+		"desc": "matte yellow peach with gold sparkle",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/whats-yo-sign.png?83197",
+		"group": "matte"
+	},
+	{
+		"name": "Stone Face",
+		"desc": "light grey",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Stone-Face.png?v=1602196634",
+		"group": "matte"
+	},
+	{
+		"name": "Backstage",
+		"desc": "matte cobalt",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Backstage.png?426680",
+		"group": "matte"
+	},
+	{
+		"name": "Seeing Stars",
+		"desc": "vibrant blue violet*Not intended for use in the immediate eye area",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Seeing-Stars.png?429465",
+		"group": "matte"
+	},
+	{
+		"name": "Latchkey",
+		"desc": "matte vivid berry*Not intended for use in the immediate eye area",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/latchkey.png?80899",
+		"group": "matte"
+	},
+	{
+		"name": "Heiress",
+		"desc": "matte pastel lavender*Not intended for use in the immediate eye area",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/heiress.png?80899",
+		"group": "matte"
+	},
+	{
+		"name": "Koi",
+		"desc": "matte soft warm orange",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Koi.png?426680",
+		"group": "matte"
+	},
+	{
+		"name": "Oh Ship",
+		"desc": "matte bright orange red",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Oh-Ship.png?429465",
+		"group": "matte"
+	},
+	{
+		"name": "Cut-Outs",
+		"desc": "matte dusty coral",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Cut-Outs.png?v=1614293844",
+		"group": "matte"
+	},
+	{
+		"desc": "undefined",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Imperial.png?v=1602200288",
+		"group": "no tags"
+	},
+	{
+		"name": "Friendly",
+		"desc": "matte lavender lilac",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/friendly.png?83197",
+		"group": "matte"
+	},
+	{
+		"desc": "undefined",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Hear-Me-Out.png?426680",
+		"group": "no tags"
+	},
+	{
+		"name": "Tiki",
+		"desc": "matte warm yellow with flecks of gold",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Tiki.png?426680",
+		"group": "matte"
+	},
+	{
+		"desc": "undefined",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/I-Owe-You.png?426680",
+		"group": "no tags"
+	},
+	{
+		"name": "Best Coast Scenario",
+		"desc": "matte bright tangerine",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Best-Coast-Scenario.png?429465",
+		"group": "matte"
+	},
+	{
+		"name": "Hustle Hard",
+		"desc": "metallic icy sterling silver",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Hustle-Hard.png?v=1646770048",
+		"group": "metallic"
+	},
+	{
+		"name": "The Good Life",
+		"desc": "metallic dazzling green gold",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/The-Good-Life.png?v=1646770048",
+		"group": "metallic"
+	},
+	{
+		"name": "Let Me Explain",
+		"desc": "metallic ivory",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Let-Me-Explain.png?426680",
+		"group": "metallic"
+	},
+	{
+		"name": "The Most",
+		"desc": "metallic pale lavender with a gold flip",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/the-most.png?80945",
+		"group": "metallic"
+	},
+	{
+		"name": "Pick Me",
+		"desc": "metallic pinky lilac",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/pick-me.png?v=1575075918",
+		"group": "metallic"
+	},
+	{
+		"name": "Material Girl",
+		"desc": "metallic truffle brown with a golden sheen",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/material-girl.png?80899",
+		"group": "metallic"
+	},
+	{
+		"name": "Misty",
+		"desc": "metallic pinky rose gold with baby blue glitter",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Misty_a39c343a-a667-4b8e-975f-dcc3f02e7dd7.png?426680",
+		"group": "metallic"
+	},
+	{
+		"name": "Mr. Sandman",
+		"desc": "icy rose with a silver sheen",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Mr-Sandman.png?426680",
+		"group": "metallic"
+	},
+	{
+		"name": "Cloud",
+		"desc": "icy lavender with a golden flip",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Cloud.png?v=1602196635",
+		"group": "metallic"
+	},
+	{
+		"name": "Skyway",
+		"desc": "pale bubblegum pink with a golden sheen",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Sky-Way.png?v=1602196636",
+		"group": "metallic"
+	},
+	{
+		"name": "Snake Eyes",
+		"desc": "metallic pale pink taupe",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Snake-Eyes.png?426680",
+		"group": "metallic"
+	},
+	{
+		"name": "Heavenly",
+		"desc": "metallic icy mint blue",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Heavenly_228ad574-f141-49c3-bb11-7901d35cd464.png?426680",
+		"group": "metallic"
+	},
+	{
+		"name": "Turntables",
+		"desc": "metallic orangey coral",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/turntables.png?80899",
+		"group": "metallic"
+	},
+	{
+		"name": "The Vibez",
+		"desc": "metallic true bronze",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/the-vibez.png?83197",
+		"group": "metallic"
+	},
+	{
+		"name": "Tangerine Dreams",
+		"desc": "mid tone red orange",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Tangerine-Dream.png?v=1602196636",
+		"group": "metallic"
+	},
+	{
+		"name": "Solstice with the Mostest",
+		"desc": "metallic neon pink with a blue sheen*Not intended for use in the immediate eye area",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Solstice-With-The-Mostest.png?429465",
+		"group": "metallic"
+	},
+	{
+		"name": "Soo Good",
+		"desc": "metallic midtone peachy gold with a pinky gold flip",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/so-good.png?v=1614321953",
+		"group": "metallic"
+	},
+	{
+		"name": "Anthem",
+		"desc": "metallic bright pinky copper",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/anthem.png?80899",
+		"group": "metallic"
+	},
+	{
+		"name": "Call U Mine",
+		"desc": "metallic deep red plum",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/call-u-mine.png?83197",
+		"group": "metallic"
+	},
+	{
+		"name": "Milli",
+		"desc": "metallic intense penny copper",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Milli.png?426680",
+		"group": "metallic"
+	},
+	{
+		"name": "Heart 2 Heart",
+		"desc": "metallic warm toned gold",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/heart-2-heart.png?80899",
+		"group": "metallic"
+	},
+	{
+		"name": "Sunkiss&#39;d",
+		"desc": "neon tangerine",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Sunkissed.png?v=1602201769",
+		"group": "metallic"
+	},
+	{
+		"name": "Luv That 4 U",
+		"desc": "metallic deep orchid",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/luv-that-4-u.png?83197",
+		"group": "metallic"
+	},
+	{
+		"name": "Miser",
+		"desc": "metallic terracotta with blue-green duochrome",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/miser.png?80899",
+		"group": "metallic"
+	},
+	{
+		"name": "Mary Jane",
+		"desc": "metallic chartreuse",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Mary-Jane.png?v=1602201768",
+		"group": "metallic"
+	},
+	{
+		"name": "Play Hard",
+		"desc": "metallic icy ivory",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Play-Hard.png?v=1646770048",
+		"group": "metallic"
+	},
+	{
+		"name": "Minty Dream",
+		"desc": "metallic icy mint",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Minty-Dream.png?v=1646770049",
+		"group": "metallic"
+	},
+	{
+		"name": "Prowlin&#39;",
+		"desc": "metallic icy lilac with a gold sheen",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Prowlin.png?v=1614293846",
+		"group": "metallic"
+	},
+	{
+		"name": "High Society",
+		"desc": "metallic tanergine with a golden flip",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/high-society.png?v=1614311548",
+		"group": "metallic"
+	},
+	{
+		"name": "On a Whimsy",
+		"desc": "vivid metallic silver",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/On-A-Whimsy.png?426680",
+		"group": "metallic"
+	},
+	{
+		"name": "Gridlock",
+		"desc": "metallic bright teal with silver & teal glitter",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/gridlock.png?80899",
+		"group": "metallic"
+	},
+	{
+		"name": "Cheers Babe",
+		"desc": "metallic pink with gold and pink pinpoints",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Cheers-Babe.png?v=1646770048",
+		"group": "metallic"
+	},
+	{
+		"name": "Glass Bull",
+		"desc": "duochrome lavender icy-blue",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Glass-Bull.png?426680",
+		"group": "duochrome"
+	},
+	{
+		"name": "Earthshine",
+		"desc": "metallic pinky lavender with a blue duochrome flip",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Earthshine_20e0f711-2777-43c9-a5c0-0560756cc48f.png?426680",
+		"group": "metallic"
+	},
+	{
+		"name": "Thank U, Next",
+		"desc": "metallic rosy bronze with a copper duochrome flip",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Thank-U-Next.png?426680",
+		"group": "metallic"
+	},
+	{
+		"name": "Wishful Winking",
+		"desc": "metallic teal with an eggplant duochrome flip",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Wishful-Winking.png?426680",
+		"group": "metallic"
+	},
+	{
+		"name": "Tea Garden",
+		"desc": "duochrome red with a green gold flip",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Tea-Garden.png?426680",
+		"group": "duochrome"
+	},
+	{
+		"name": "Antimatter",
+		"desc": "metallic turquoise with a deep purple duochrome flip",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Antimatter_33052625-d8ae-4f3b-b492-47c46d93069c.png?426680",
+		"group": "metallic"
+	},
+	{
+		"name": "Sugar Sugar",
+		"desc": "metallic icy mauve",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/sugar-sugar.png?v=1614321954",
+		"group": "metallic"
+	},
+	{
+		"name": "Fab",
+		"desc": "copper with highlights of rose gold",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/fab.png?83197",
+		"group": "glitter"
+	},
+	{
+		"name": "Get Lost",
+		"desc": "warm opalescent gold with large rainbow holographic glitter*Not intended for use in the immediate eye area",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Get-Lost.png?429465",
+		"group": "glitter"
+	},
+	{
+		"name": "Bossa Nova",
+		"desc": "warm ivory with pinpoints of gold, hot pink, blue, and purple glitter*Not intended for use in the immediate eye area",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Bossa-Nova.png?v=1602196635",
+		"group": "glitter"
+	},
+	{
+		"name": "Hungry Ghost",
+		"desc": "opal with a copper and gold duochrome shift",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Hungry-Ghost.png?429465",
+		"group": "glitter"
+	},
+	{
+		"name": "Bad Moon",
+		"desc": "cool lavender with blue and green pinpoints*Not intended for use in the immediate eye area",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Bad-Moon.png?v=1602196634",
+		"group": "glitter"
+	},
+	{
+		"name": "Tiny Nugget",
+		"desc": "silver lavender with opalescent teal reflects",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/tiny-nugget.png?83197",
+		"group": "glitter"
+	},
+	{
+		"name": "IYKYK",
+		"desc": "warm lavender with multi-dimensional opal flecks",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/IYKYK.png?83197",
+		"group": "glitter"
+	},
+	{
+		"name": "Blossom",
+		"desc": "baby pink with multi-dimensional glitter*Not intended for use in the immediate eye area. ",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/blossom.png?83197",
+		"group": "glitter"
+	},
+	{
+		"name": "Full Effect",
+		"desc": "rose gold glitter with highlights of silver, copper, and gold glitter",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0845/files/full-effect.png?83197",
+		"group": "glitter"
+	},
+	{
+		"name": "Lightshow",
+		"desc": "iridescent teal",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Lightshow.png?429465",
+		"group": "glitter"
+	},
+	{
+		"name": "Indio",
+		"desc": "soft pink with holographic glitter",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Indio.png?429465",
+		"group": "glitter"
+	},
+	{
+		"name": "Set Sail",
+		"desc": "neutral bronze with copper pinpoints*Not intended for use in the immediate eye area",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Set-Sail.png?v=1602196636",
+		"group": "glitter"
+	},
+	{
+		"name": "Baila",
+		"desc": "cool baby pink with rainbow pinpoints*Not intended for use in the immediate eye area",
+		"url": "https://cdn.shopify.com/s/files/1/1338/0835/files/Baila.png?v=1602196635",
+		"group": "glitter"
+	}
+]

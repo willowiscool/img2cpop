@@ -1,0 +1,115 @@
+<!doctype html>
+<html class="no-js" lang="">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<title>Image 2 ColourPop</title>
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/color-thief/2.3.0/color-thief.umd.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/chroma-js/2.4.2/chroma.min.js" integrity="sha512-zInFF17qBFVvvvFpIfeBzo7Tj7+rQxLeTJDmbxjBz5/zIr89YVbTNelNhdTT+/DCrxoVzBeUPVFJsczKbB7sew==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+		<script src="https://unpkg.com/alpinejs" defer></script>
+		<script src="./index.js"></script>
+
+		<style>
+			body {
+				font-family: "Roboto", sans-serif;
+			}
+			.color {
+				width: 100px;
+				height: 100px;
+			}
+			.shade {
+				height: 100px;
+				display: flex;
+				align-items: center;
+				width: 450px;
+			}
+			.shadeset {
+				display: flex;
+			}
+			.shadeset > * {
+				flex-grow: 1;
+				padding-left: 5px;
+				padding-right: 5px;
+			}
+			.shade img {
+				height: 100px;
+				margin-right: 5px;
+			}
+			#container {
+				display: flex;
+				align-items: center;
+			}
+			#container > div {
+				padding-left: 5px;
+				padding-right: 5px;
+			}
+			p {
+				margin: 0;
+			}
+			#first {
+				width: 310px;
+			}
+		</style>
+	</head>
+	<body x-data="{ data: { palette: [], shadesets: [] } }">
+		<h1>Image to ColourPop Palette</h1>
+
+		<div id="container">
+			<div id="first">
+				<p>This program will take an image and give you a list of shades that match colors found in the image. In order to use it, choose your image with the following input, and then click the button that says "Run". You will get the main colors of the image, as well as three shades closest to each of the colors (scroll to the right if you don't see them). You can find these on the <a href="https://colourpop.com/pages/create-your-own-makeup-palette">Build Your Onw Palette</a> page on ColourPop's website.</p>
+				<br>
+				<p>
+					Not sure what image to use? Try some art!
+					<br>
+					<button @click="data = await runWith('https://upload.wikimedia.org/wikipedia/commons/6/6a/Mona_Lisa.jpg')">The Mona Lisa</button>
+					<br>
+					<button @click="data = await runWith('https://www.moma.org/media/W1siZiIsIjQ2NzUxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=314ebf8cc678676f')">Starry Night</button>
+					<br>
+					<button @click="data = await runWith('https://images.uffizi.it/production/attachments/1503909239806647-605174-2-.jpg?ixlib=rails-2.1.3&w=1200&h=800&fit=clip&crop=center&fm=pjpg&auto=compress')">The Birth of Venus</button>
+				</p>
+				<br>
+				<p>This program was made by <a href="https://willowis.cool/">willow</a> with the help of <a href="https://lokeshdhakar.com/projects/color-thief/">Color Thief</a> and <a href="https://gka.github.io/chroma.js/">chroma.js</a>. It's also <a href="https://github.com/willowiscool/img2cpop">open source!</a></p>
+				<br>
+				<label>
+					Upload your image:
+					<input type="file" id="input" accept="image/*"/>
+				</label>
+				<button id="run" @click="data = await run()">Run</button>
+				<br/>
+				<img id="image" width=300 />
+			</div>
+
+			<div>
+				<p x-show="data.palette.length > 0">Palette:</p>
+				<template x-for="color in data.palette">
+					<div class="color" :style="`background: rgba(${color[0]}, ${color[1]}, ${color[2]})`"></div>
+				</template>
+			</div>
+
+			<!-- <p x-text="JSON.stringify(data.shadesets)"></p>-->
+
+			<div>
+				<p x-show="data.shadesets.length > 0">Closest shades:</p>
+				<div class="shadeset">
+					<template x-for="(_, i) in data.shadesets[0]">
+						<div>
+							<template x-for="shadeset in data.shadesets">
+								<div class="shade">
+									<img :src="shadeset[i].url"/>
+									<div>
+										<p x-text="'Name: ' + shadeset[i].name"></p>
+										<p x-text="'Description: ' + shadeset[i].desc"></p>
+										<p x-text="'Group: ' + shadeset[i].group"></p>
+									</div>
+							</template>
+						</div>
+					</template>
+					<br>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
